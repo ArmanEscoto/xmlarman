@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"
+<food>
+    <breakfast> 
+        <name>Tapsilog</name>
+            <mainingredient>
+                <ingredients>PorkLiempo</ingredients>
+                <ingredients>Sinangag</ingredients>
+                <ingredients>Itlog</ingredients>
+            </mainingredient>
+        <carbs>50g</carbs>
+        <fat>20g</fat>
+        <protein>7g</protein>
+        <description>Tapsilog a popular Filipino meal</description>
+    </breakfast>
+    <junkfood>
+        <pizza>
+            <name>Pepperoni</name>
+            <crust>Thin</crust>
+            <toppings>
+            <topping>Pepperoni</topping>
+            <topping>Mozzarella cheese</topping>
+            <topping>Tomato sauce</topping>
+            </toppings>
+            <size>Large</size>
+            <price>12.99</price>
+        </pizza>
+    <junkfood>
+    <lunch>
+        <Typesofulam>
+            <name>Adobo</name>
+            <name>Sinigang</name>
+            <name>Sisig</name>
+            <name>Pinakbet</name>
+            <name>Tinola</name>
+        </Typesofulam>
+    </lunch>
+    <miryenda>
+        <name>Banana Cue</name>
+        <nutrients>Vitamin A</nutrients>
+        <nutrients>Vitamin B</nutrients>
+        <nutrients>Vitamin C</nutrients>
+        <Calcium>8mg</Calcium>
+    </miryenda>
+    <Dinner>
+        <History_of_Adobo>
+            <name>Adobo</name>
+            <Originated>Philippines</Originated>
+            <Spanish_Term>adobar</Spanish_Term>
+        </History_of_Adobo>
+        <description>First cooking method of adobo is salt and vinigar</description>    
+    </Dinner>
+    <midnight_snack>
+        <popcorn>
+            <name>Butter Popcorn</name>
+            <flavor>Butter</flavor>
+            <size>Large</size>
+            <price>5.99</price>
+        </popcorn>
+    <midnight_snack>
+</food>
